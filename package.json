@@ -1,0 +1,12 @@
+{
+	"name": "synTools",
+	"version": "0.0.1",
+	"private": true,
+	"description": "Synvao Tools",
+	"main": "./index.js",
+	"author": {
+		"name": "Robin Schulemann",
+		"email": "rschulemann@blueunionlabs.com"
+	},
+	"dependencies": {}
+}
