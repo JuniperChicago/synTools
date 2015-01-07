@@ -1,8 +1,8 @@
-module.exports = (function(){
+module.exports = (function() {
 
     var synTools = {};
 
-    myApi.mergeRecursive = function(obj1, obj2) {
+    synTools.mergeRecursive = function(obj1, obj2) {
         for (var p in obj2) {
             try {
                 // Property in destination object set; update its value.
@@ -22,4 +22,3 @@ module.exports = (function(){
     return synTools;
 
 })();
-
