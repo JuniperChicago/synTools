@@ -2,7 +2,7 @@
 	"name": "synTools",
 	"version": "0.0.1",
 	"private": true,
-	"description": "Synvao Tools",
+	"description": "General library of utilities methods. parsers, and templates.",
 	"main": "./index.js",
 	"author": {
 		"name": "Robin Schulemann",
